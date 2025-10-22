@@ -15,6 +15,6 @@
  bl
  a
 bonk
-edycja1
-edycja2
+edycja_zadanie_7
+
 
