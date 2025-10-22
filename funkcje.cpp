@@ -15,6 +15,5 @@
  bl
  a
 bonk
-edycja_zadanie_7
-
+edycja_zadanie_7, qwerty
 
